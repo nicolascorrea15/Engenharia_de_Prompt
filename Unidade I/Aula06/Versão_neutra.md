@@ -1,6 +1,7 @@
 Versão neutra:
 Esse foi o código recebido: 
 Solicita as notas ao usuário
+
 quantidade = int(input("Quantas notas você deseja inserir? "))
 notas = []
 
@@ -14,7 +15,9 @@ media = sum(notas) / len(notas)
 Exibe o resultado
 print(f"A média das notas do aluno é: {media:.2f}")
 "
+
 Resultado:
+
 Precisão lógica: Ok, o código funciona
 Clareza e eficiência: Ok, foi completamente direto ao ponto.
 Taxa de alucinação: Não houve
