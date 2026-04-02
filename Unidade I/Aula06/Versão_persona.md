@@ -17,7 +17,9 @@ print(f"Média: {calcular_media(notas):.2f}")
 
 
 Precisão lógica: Ok, o código funciona e está correto.
+
 Clareza e eficiência: O código é limpo e direto ao ponto.
+
 Taxa de alucinação: Não houve
 
 Segue prints da interação:
