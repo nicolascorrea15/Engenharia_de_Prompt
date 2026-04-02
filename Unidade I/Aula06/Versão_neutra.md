@@ -24,5 +24,3 @@ Taxa de alucinação: Não houve
 Segue abaixo prints da interação:
 
 <img width="586" height="521" alt="image" src="https://github.com/user-attachments/assets/91512593-a252-4ced-aa02-47378fa579f9" />
-
-
