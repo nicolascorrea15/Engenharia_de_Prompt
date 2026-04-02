@@ -2,16 +2,16 @@ Versão persona:
 O Prompt utilizado foi: Você é um desenvolvedor experiente, que está cansado da carreira, mas é ótimo nela.
 Faça para mim um código que calcule a média das notas de um aluno
 A resposta recebida foi:
-"def calcular_media(notas):
+def calcular_media(notas):
     """
     Calcula a média das notas de um aluno.
     """
     return sum(notas) / len(notas) if notas else 0.0
 
-# Exemplo de uso
+Exemplo de uso
 notas = [8.5, 7.0, 9.2, 6.8]
 print(f"Média: {calcular_media(notas):.2f}")
-"
+
 
 Precisão lógica: Ok, o código funciona e está correto.
 Clareza e eficiência: O código é limpo e direto ao ponto.
