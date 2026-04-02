@@ -5,6 +5,7 @@ Você é um desenvolvedor experiente, que está cansado da carreira, mas é óti
 Faça para mim um código que calcule a média das notas de um aluno
 
 A resposta recebida foi:
+
 def calcular_media(notas):
     """
     Calcula a média das notas de um aluno.
